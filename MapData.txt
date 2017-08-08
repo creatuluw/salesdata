@@ -1,0 +1,625 @@
+﻿GeoKey;Latitude;Longitude
+GermanyHamburgBonn53001;53.551085;9.993682
+GermanyHamburgFrankfurt am Main60082;53.551085;9.993682
+GermanyHamburgMühlheim63151;53.572426;10.039762
+GermanyHamburgPaderborn33041;51.7189205;8.7575093
+GermanyHessenDresden01071;51.28742;14.84772
+GermanySaarlandFrankfurt am Main60061;49.4659584;7.1471349
+GermanySaarlandFrankfurt am Main60075;49.4659584;7.1471349
+GermanySaarlandKiel24044;54.3232927;10.1227652
+GermanySaarlandPoing66041;48.1716114;11.8064153
+GermanySaarlandStuttgart70452;49.3708;6.72295
+GermanySaarlandStuttgart70511;49.3708;6.72295
+United KingdomEnglandBerkshireRG11 5TP;51.4659863;-1.2814014
+AustraliaNew South WalesLane Cove1597;-33.8145564;151.1698948
+AustraliaNew South WalesCoffs Harbour2450;-30.285487;153.131308
+AustraliaNew South WalesDarlinghurst2010;-33.879825;151.21956
+AustraliaNew South WalesGoulburn2580;-34.75535;149.717816
+AustraliaNew South WalesLavender Bay2060;-33.84307;151.208015
+AustraliaNew South WalesMalabar2036;-33.965376;151.245969
+AustraliaNew South WalesMatraville2036;-33.957549;151.230846
+AustraliaNew South WalesMilsons Point2061;-33.847526;151.211568
+AustraliaNew South WalesNewcastle2300;-32.926357;151.78122
+AustraliaNew South WalesNorth Ryde2113;-33.79677;151.124355
+AustraliaNew South WalesNorth Sydney2055;-33.86865;151.216484
+AustraliaNew South WalesPort Macquarie2444;-31.434259;152.908481
+AustraliaNew South WalesRhodes2138;-33.830764;151.088105
+AustraliaNew South WalesSilverwater2264;-33.101384;151.56199
+AustraliaNew South WalesSpringwood2777;-33.700645;150.55875
+AustraliaNew South WalesSt. Leonards2065;-33.823248;151.195504
+AustraliaNew South WalesSydney1002;-33.86865;151.216484
+AustraliaNew South WalesWollongong2500;-34.425878;150.899818
+AustraliaQueenslandBrisbane4000;-27.46758;153.027892
+AustraliaQueenslandCaloundra4551;-26.804636;153.130349
+AustraliaQueenslandEast Brisbane4169;-27.479652;153.045983
+AustraliaQueenslandGold Coast4217;-27.9836052;153.3977354
+AustraliaQueenslandHawthorne4171;-27.462031;153.060373
+AustraliaQueenslandHervey Bay4655;-25.2852778;152.8727778
+AustraliaQueenslandRockhampton4700;-23.378941;150.512323
+AustraliaQueenslandTownsville4810;-19.258106;146.818351
+AustraliaSouth AustraliaCloverdale6105;-31.963644;115.934344
+AustraliaSouth AustraliaFindon5023;-34.90548;138.532561
+AustraliaSouth AustraliaPerth6006;-31.925306;115.853655
+AustraliaTasmaniaHobart7001;-42.836111;147.510278
+AustraliaVictoriaBendigo3550;-36.755513;144.284263
+AustraliaVictoriaCranbourne3977;-38.11122;145.268832
+AustraliaVictoriaGeelong3220;-38.14729;144.360735
+AustraliaVictoriaMelbourne3000;-37.8133386;144.9708234
+AustraliaVictoriaMelton3337;-37.683206;144.58315
+AustraliaVictoriaSeaford3198;-38.102679;145.126482
+AustraliaVictoriaSouth Melbourne3205;-37.830236;144.959304
+AustraliaVictoriaSunbury3429;-37.576859;144.731425
+AustraliaVictoriaWarrnambool3280;-38.383313;142.482959
+CanadaAlbertaCalgaryT2P 2G8;51.098106;-114.0349934
+CanadaAlbertaEdmontonT5;53.525283;-113.525612
+CanadaBritish ColumbiaBurnabyV3J 6Z3;49.2581338;-122.8627441
+CanadaBritish ColumbiaBurnabyV5A 3A6;49.2553316;-122.9378263
+CanadaBritish ColumbiaBurnabyV5A 4X1;49.2599284;-122.9153695
+CanadaBritish ColumbiaBurnabyV5G 4S4;49.2547819;-123.0015691
+CanadaBritish ColumbiaBurnabyV5G 4W1;49.2505439;-122.9927971
+CanadaBritish ColumbiaBurnabyV5H 3Z7;49.2327876;-123.0226601
+CanadaBritish ColumbiaCliffsideV8Y 1L1;48.5204624;-123.3691694
+CanadaBritish ColumbiaHaneyV2W 1W2;49.216982;-122.622868
+CanadaBritish ColumbiaLangfordV9;48.4476145;-123.4959354
+CanadaBritish ColumbiaLangleyV3A 4R2;49.1072662;-122.6778118
+CanadaBritish ColumbiaMetchosinV9;50.685754;-127.38342
+CanadaBritish ColumbiaN. VancouverV7L 4J4;49.3119239;-123.0783834
+CanadaBritish ColumbiaNewtonV2L3W8;53.8537181;-122.7642351
+CanadaBritish ColumbiaNewtonV2M1N7;53.9156122;-122.7685866
+CanadaBritish ColumbiaNewtonV2M1P1;53.9152206;-122.772976
+CanadaBritish ColumbiaNewtonV2M1S6;53.9106262;-122.7699244
+CanadaBritish ColumbiaOak BayV8P;48.4599139;-123.3423413
+CanadaBritish ColumbiaPort HammondV6B 3P7;49.2804482;-123.1145576
+CanadaBritish ColumbiaRichmondV6B 3P7;49.2804482;-123.1145576
+CanadaBritish ColumbiaRoyal OakV8X;48.489153;-123.398673
+CanadaBritish ColumbiaShawneeV8Z 4N5;48.4949142;-123.3896105
+CanadaBritish ColumbiaShawneeV9B 2C3;48.4400647;-123.4838456
+CanadaBritish ColumbiaShawneeV9B 5T2;48.44902;-123.4982593
+CanadaBritish ColumbiaSookeV0;49.250654;-124.075343
+CanadaBritish ColumbiaSurreyV3T 4W3;49.1964699;-122.8446311
+CanadaBritish ColumbiaVancouverV7L 4J4;49.3119239;-123.0783834
+CanadaBritish ColumbiaVictoriaV8V;48.4153294;-123.3671972
+CanadaBritish ColumbiaWestminsterV3L 1E7;49.2070705;-122.906299
+CanadaBritish ColumbiaWestminsterV3L 1H4;49.2087305;-122.9058188
+CanadaBrunswickSaint JohnE2P 1E3;45.2800269;-66.053214
+CanadaManitobaWinnipegR3;49.8054027;-97.1327373
+CanadaOntarioAuroraL4G 7N6;44.0023399;-79.4438418
+CanadaOntarioBarrieL4N;44.3812;-79.686998
+CanadaOntarioBramptonL6W 2T7;43.6813548;-79.7417401
+CanadaOntarioChalk RiberK0J 1J0;45.9328092;-77.3870086
+CanadaOntarioEtobicokeM9W 3P3;43.7248371;-79.550685
+CanadaOntarioKanataK2L 1H5;45.2967343;-75.8799028
+CanadaOntarioKingston7L;44.2475806;-76.5004377
+CanadaOntarioMarkhamL3S 3K2;43.843245;-79.3025411
+CanadaOntarioMississaugaL4W 5J3;43.6572167;-79.613362
+CanadaOntarioMississaugaL5A 1H6;43.5852106;-79.5881735
+CanadaOntarioMississaugaL5B 3V4;43.5804569;-79.6401225
+CanadaOntarioNepeanK2J 2W5;45.270419;-75.7550385
+CanadaOntarioOttawaK4B 1S1;45.3713325;-75.2784863
+CanadaOntarioOttawaK4B 1S2;45.3775357;-75.266333
+CanadaOntarioOttawaK4B 1S3;45.364601;-75.2957574
+CanadaOntarioOttawaK4B 1T7;45.3690909;-75.2934005
+CanadaOntarioRichmond HillL4E 3M5;43.9124665;-79.4457759
+CanadaOntarioTorontoM4B 1V4;43.7104698;-79.3005159
+CanadaOntarioTorontoM4B 1V5;43.7109632;-79.3002518
+CanadaOntarioTorontoM4B 1V6;43.7111256;-79.2980505
+CanadaOntarioTorontoM4B 1V7;43.7114384;-79.2982266
+CanadaOntarioVancouverV5T 1Y9;49.2459909;-123.1051154
+CanadaOntarioWaterlooN2V;43.4854945;-80.5743969
+CanadaOntarioWestonM9V 4W3;43.7009889;-79.5197
+CanadaQuebecBrossardJ4Z 1C5;45.4811285;-73.45779
+CanadaQuebecBrossardJ4Z 1R4;45.4737325;-73.4537982
+CanadaQuebecDorvalH9P 1H1;45.4635547;-73.727945
+CanadaQuebecHull8Y;48.2027951;-79.0262299
+CanadaQuebecMontrealH1Y 2H3;45.5522776;-73.5798294
+CanadaQuebecMontrealH1Y 2H5;45.5532054;-73.5825313
+CanadaQuebecMontrealH1Y 2H7;45.553768;-73.5842956
+CanadaQuebecMontrealH1Y 2H8;45.5550067;-73.5885958
+CanadaQuebecOutremontH1Y 2G5;45.549265;-73.569658
+CanadaQuebecPnot-RougeJ1E 2T7;45.4152929;-71.8747581
+CanadaQuebecQuebecG1R;46.8051462;-71.2167236
+CanadaQuebecSainte-FoyG1W;46.7578355;-71.2923023
+CanadaQuebecSilleryG1T;46.7725103;-71.2606511
+"CanadaQuebecVille De'anjouJ1G 2R3";45.607036;-73.558368
+FranceCharente-MaritimeSaint Ouen17490;45.8704398;-0.1633108
+FranceEssonneLes Ulis91940;48.6828383;2.1691962
+FranceEssonneMorangis91420;48.7005202;2.3372223
+FranceEssonneVerrieres Le Buisson91370;48.752441;2.2519797
+FranceGaronne (Haute)Colomiers31770;43.6155066;1.3228229
+FranceHauts de SeineBoulogne-Billancourt92100;48.833209;2.2359802
+FranceHauts de SeineColombes92700;48.9237226;2.2431251
+FranceHauts de SeineCourbevoie92400;48.9008079;2.2553567
+FranceHauts de SeineParis La Defense92081;48.896926;2.227209
+FranceHauts de SeineSèvres92310;48.8211329;2.2098332
+FranceHauts de SeineSuresnes92150;48.8712834;2.21935
+FranceLoir et CherSaint Ouen41100;47.8101124;1.0815936
+FranceLoiretOrleans45000;47.9108329;1.9157977
+FranceMoselleMetz57000;49.0730759;6.1845174
+FranceNordCroix59170;50.6758613;3.1492001
+FranceNordDunkerque59140;51.0460018;2.3579275
+FranceNordLille59000;50.6138111;3.0423599
+FranceNordRoncq59223;50.7468588;3.1176207
+FranceNordRoubaix59100;50.6930818;3.1845673
+"FranceNordVilleneuve-d'Ascq59491";50.6551537;3.1468771
+FrancePas de CalaisBoulogne-sur-Mer62200;50.7254413;1.6063458
+FranceSeine (Paris)Paris75002;48.8675641;2.34399
+FranceSeine (Paris)Paris75003;48.8634799;2.3591145
+FranceSeine (Paris)Paris75005;48.8434912;2.3518339
+FranceSeine (Paris)Paris75006;48.8488576;2.3354223
+FranceSeine (Paris)Paris75007;48.8543345;2.3134029
+FranceSeine (Paris)Paris75008;48.8718722;2.3176432
+FranceSeine (Paris)Paris75009;48.8729788;2.3270909
+FranceSeine (Paris)Paris75010;48.8785618;2.3603689
+FranceSeine (Paris)Paris75012;48.8293647;2.4265406
+FranceSeine (Paris)Paris75013;48.830759;2.359204
+FranceSeine (Paris)Paris75016;48.8530933;2.2487626
+FranceSeine (Paris)Paris75017;48.891986;2.319287
+FranceSeine (Paris)Paris75019;48.8906136;2.3867083
+FranceSeine et MarneLieusaint77127;48.6256714;2.5546241
+FranceSeine et MarneRoissy en Brie77680;48.794038;2.6600763
+FranceSeine Saint DenisBobigny93000;48.9100302;2.422169
+FranceSeine Saint DenisDrancy93700;48.9221928;2.4429597
+FranceSeine Saint DenisPantin93500;48.8977492;2.4070294
+FranceSeine Saint DenisSaint-Denis93400;48.9093087;2.3347745
+FranceSeine Saint DenisTremblay-en-France93290;48.982984;2.5472983
+FranceSommeSaint Ouen80610;50.0374066;2.1210212
+"FranceVal d'OiseCergy95000";49.0525005;2.0388296
+FranceVal de MarneOrly94310;48.7468342;2.4054748
+FranceYvelineChatou78400;48.8977009;2.1541059
+FranceYvelineSaint Germain en Laye78100;48.9315928;2.0921881
+FranceYvelineVersailles78000;48.8051741;2.1219587
+GermanyBayernAugsburg86150;48.3656729;10.8942662
+GermanyBayernErlangen91054;49.6033151;11.0243084
+GermanyBayernFrankfurt91480;49.6803988;10.5255539
+GermanyBayernGrevenbroich41485;51.089651;6.585602
+GermanyBayernHof95010;50.2887145;11.8635693
+GermanyBayernIngolstadt85049;48.762145;11.425389
+GermanyBrandenburgBerlin14197;52.4751239;13.310821
+GermanyBrandenburgEilenburg04838;51.459915;12.632663
+GermanyHamburgAugsburg86171;48.3654574;10.8947684
+GermanyHamburgBerlin10210;53.553802;10.027118
+GermanyHamburgBerlin10791;52.504122;13.348477
+GermanyHamburgBerlin12311;53.553802;10.027118
+GermanyHamburgBerlin14111;53.553802;10.027118
+GermanyHamburgBonn53131;50.7327045;7.0963113
+GermanyHamburgEssen45001;53.5741715;10.0443246
+GermanyHamburgFrankfurt am Main60355;50.1115118;8.6805059
+GermanyHamburgHamburg20354;53.5596267;9.9936835
+GermanyHamburgMuehlheim63151;51.8510052;4.5112031
+GermanyHamburgMünchen80074;48.1391265;11.5801863
+GermanyHessenBad Soden65800;50.1443132;8.5010986
+GermanyHessenBerlin12171;52.4753239;13.374301
+GermanyHessenBerlin13441;52.4753239;13.374301
+GermanyHessenBerlin14111;52.4753239;13.374301
+GermanyHessenBerlin14129;52.4753239;13.374301
+GermanyHessenDarmstadt64283;49.872049;8.6514634
+GermanyHessenDuesseldorf40434;51.19654;6.696986
+GermanyHessenDuesseldorf40605;51.236661;6.694524
+GermanyHessenFrankfurt60323;50.1258328;8.6622813
+GermanyHessenHamburg22001;53.637273;9.966148
+GermanyHessenKassel34117;51.3170536;9.4924552
+GermanyHessenMünchen80074;48.1391265;11.5801863
+GermanyHessenSalzgitter38231;51.2446942;9.4486173
+GermanyNordrhein-WestfalenBerlin10501;50.977367;7.529013
+GermanyNordrhein-WestfalenBerlin14197;50.977367;7.529013
+GermanyNordrhein-WestfalenBonn53131;50.730316;7.098403
+GermanyNordrhein-WestfalenBottrop46236;51.5267424;6.9243806
+GermanyNordrhein-WestfalenBraunschweig38001;51.508985;6.840802
+GermanyNordrhein-WestfalenHannover30601;51.503302;7.162793
+GermanyNordrhein-WestfalenLeipzig04139;51.3396731;12.3713639
+GermanyNordrhein-WestfalenMünchen80074;51.441745;6.646775
+GermanyNordrhein-WestfalenPaderborn33098;51.7113515;8.7542577
+GermanyNordrhein-WestfalenSolingen42651;51.1787566;7.1038151
+GermanyNordrhein-WestfalenWerne59368;51.6705945;7.5909062
+GermanySaarlandBerlin12171;52.5234051;13.4113999
+GermanySaarlandBerlin12311;52.5234051;13.4113999
+GermanySaarlandBerlin14197;52.5234051;13.4113999
+GermanySaarlandMünchen48001;51.204117;6.433378
+GermanySaarlandMünster48001;49.4680783;7.1676615
+GermanySaarlandNeunkirchen66578;49.3648424;7.1218974
+GermanySaarlandOffenbach63009;50.1049197;8.758561
+GermanySaarlandSaarbrücken66001;49.2405911;6.9900427
+GermanySaarlandSaarlouis66740;49.301304;6.7369506
+GermanySaarlandSulzbach Taunus66272;50.133876;8.527121
+United KingdomEnglandAbingdonOX14 4SE;51.6700706;-1.2850126
+United KingdomEnglandBasingstoke HantsRG24 8PL;51.2846488;-1.0526527
+United KingdomEnglandBerksSL4 1RH;51.4974816;-0.6431502
+United KingdomEnglandBillericayCM11;51.6035928;0.4433
+United KingdomEnglandBirminghamB29 6SL;52.4443395;-1.9190395
+United KingdomEnglandBracknellRG12 8TB;51.416623;-0.7702759
+United KingdomEnglandBuryPE17;53.5934589;-2.2985402
+United KingdomEnglandCambridgeCB4 4BZ;52.2309912;0.1295545
+United KingdomEnglandCheltenhamGL50;51.8906329;-2.086796
+United KingdomEnglandEsher-MoleseyEM15;51.3696161;-0.3656661
+United KingdomEnglandGatesheadGA10;54.9593729;-1.6018252
+United KingdomEnglandGloucestershireGL7 1RY;51.7119099;-1.9611707
+United KingdomEnglandHigh WycombeHP10 9QY;51.6048559;-0.7202194
+United KingdomEnglandKirkbyKB9;53.4841322;-2.8882155
+United KingdomEnglandLancasterLA1 1LN;54.0603941;-2.8022267
+United KingdomEnglandLeedsLE18;52.5771785;-1.1307692
+United KingdomEnglandLiverpoolL4 4HB;53.4359087;-2.9793575
+United KingdomEnglandLondonC2H 7AU;51.5001524;-0.1262362
+United KingdomEnglandLondonE17 6JF;51.5741658;-0.0279261
+United KingdomEnglandLondonEC1R 0DU;51.5225124;-0.1104922
+United KingdomEnglandLondonSE1 8HL;51.5077388;-0.0990485
+United KingdomEnglandLondonSW1P 2NU;51.4925991;-0.1305692
+United KingdomEnglandLondonSW6 SBY;51.474111;-0.2010027
+United KingdomEnglandLondonSW8 1XD;51.4768234;-0.1422428
+United KingdomEnglandLondonSW8 4BG;51.4768234;-0.1422428
+United KingdomEnglandLondonSW19 3RU;51.4190002;-0.1859352
+United KingdomEnglandLondonW1N 9FA;51.5001524;-0.1262362
+United KingdomEnglandLondonW1V 5RN;51.5001524;-0.1262362
+United KingdomEnglandLondonW1X3SE;51.5001524;-0.1262362
+United KingdomEnglandLondonW1Y 3RA;51.5001524;-0.1262362
+United KingdomEnglandLondonW10 6BL;51.5187408;-0.221945
+United KingdomEnglandMaidenheadSL67RJ;51.5363986;-0.7303696
+United KingdomEnglandMilton KeynesMK8 8DF;52.0360904;-0.7936672
+United KingdomEnglandMilton KeynesMK8 8ZD;52.0360904;-0.7936672
+United KingdomEnglandNewcastle upon TyneNT20;54.9778404;-1.6129165
+United KingdomEnglandOxfordOX1;51.7239721;-1.2751145
+United KingdomEnglandOxfordOX14 4SE;51.6924826;-1.2615608
+United KingdomEnglandOxonOX16 8RS;52.0603557;-1.3351479
+United KingdomEnglandPeterboroughPB12;52.5702461;-0.2437337
+United KingdomEnglandReadingRG7 5H7;51.3953864;-0.9793019
+United KingdomEnglandRuncornTY31;53.335474;-2.728895
+United KingdomEnglandStoke-on-TrentAS23;53.0265029;-2.176636
+United KingdomEnglandW. YorkBD1 4SJ;53.7927378;-1.7458089
+United KingdomEnglandWarringtonWA1;53.3982517;-2.5634829
+United KingdomEnglandWarringtonWA3 7BH;53.4130559;-2.5022655
+United KingdomEnglandWatfordWA3;53.4620238;-2.4869524
+United KingdomEnglandWest SussexRH15 9UD;50.9522782;-0.1468077
+United KingdomEnglandWokinghamRG41 1QW;51.4146604;-0.8638315
+United KingdomEnglandWoolstonWA1 4SY;53.3982517;-2.5634829
+United KingdomEnglandYorkY03 4TN;53.958213;-1.092174
+United KingdomEnglandYorkY024 1GF;53.9577018;-1.0822855
+United KingdomEnglandYorkYO15;54.1174021;-0.1419904
+United StatesAlabamaBirmingham35203;33.5178769;-86.8094808
+United StatesAlabamaFlorence35630;34.8287425;-87.6482474
+United StatesAlabamaHuntsville35801;34.7364493;-86.5501654
+United StatesArizonaChandler85225;33.3091946;-111.8210866
+United StatesArizonaGilbert85233;33.3519301;-111.8210866
+United StatesArizonaMesa85201;33.4329528;-111.8449346
+United StatesArizonaPhoenix85004;33.4528292;-112.0685027
+United StatesArizonaScottsdale85257;33.468848;-111.910516
+United StatesArizonaSurprise85374;33.6496795;-112.3933836
+United StatesArizonaTucson85701;32.2147915;-110.9715269
+United StatesCaliforniaAlhambra91801;34.0837958;-118.1181199
+United StatesCaliforniaAuburn95603;38.8965654;-121.0768901
+United StatesCaliforniaBaldwin Park91706;34.0852868;-117.9608978
+United StatesCaliforniaBarstow92311;34.8957957;-117.0172826
+United StatesCaliforniaBell Gardens90201;33.9652918;-118.1514588
+United StatesCaliforniaBellflower90706;33.8822393;-118.1239717
+United StatesCaliforniaBerkeley94704;37.8637376;-122.2682245
+United StatesCaliforniaBeverly Hills90210;34.0736204;-118.4003563
+United StatesCaliforniaBurbank91502;34.1772371;-118.3082034
+United StatesCaliforniaBurlingame94010;37.5841026;-122.3660825
+United StatesCaliforniaCamarillo93010;34.2330908;-119.0809012
+United StatesCaliforniaCanoga Park91303;34.1989453;-118.597305
+United StatesCaliforniaCarson90746;33.8540061;-118.2585096
+United StatesCaliforniaCerritos90703;33.8724552;-118.0595907
+United StatesCaliforniaChula Vista91910;32.6385134;-117.0617553
+United StatesCaliforniaCitrus Heights95610;38.6977447;-121.2740813
+United StatesCaliforniaCity Of Commerce90040;33.9930471;-118.153228
+United StatesCaliforniaColma94014;37.6768779;-122.459695
+United StatesCaliforniaConcord94519;37.9876914;-122.0098642
+United StatesCaliforniaCoronado92118;32.699753;-117.2029363
+United StatesCaliforniaCulver City90232;34.0185674;-118.3900204
+United StatesCaliforniaDaly City94015;37.6800002;-122.4863492
+United StatesCaliforniaDowney90241;33.9446393;-118.1415261
+United StatesCaliforniaEl Cajon92020;32.7963222;-116.9675814
+United StatesCaliforniaEl Segundo90245;33.9150066;-118.4046264
+United StatesCaliforniaElk Grove95624;38.4087993;-121.3716178
+United StatesCaliforniaEscondido92025;33.0864488;-117.0441009
+United StatesCaliforniaEureka95501;40.7928217;-124.1511916
+United StatesCaliforniaFontana92335;34.083787;-117.4673845
+United StatesCaliforniaFremont94536;37.5710087;-121.9814354
+United StatesCaliforniaFullerton92831;33.881922;-117.8956062
+United StatesCaliforniaGilroy95020;37.0057816;-121.5682751
+United StatesCaliforniaGlendale91203;34.1531191;-118.2614332
+United StatesCaliforniaGrossmont91941;32.778333;-116.9875
+United StatesCaliforniaHanford93230;36.3274502;-119.6456844
+United StatesCaliforniaImperial Beach91932;32.5839444;-117.1130849
+United StatesCaliforniaIrvine92614;33.6832497;-117.8340735
+United StatesCaliforniaLa Jolla92806;33.8575;-117.87556
+United StatesCaliforniaLa Mesa91941;32.7678287;-117.0230839
+United StatesCaliforniaLake Elsinore92530;33.6680772;-117.3272615
+United StatesCaliforniaLakewood90712;33.8493162;-118.153228
+United StatesCaliforniaLemon Grove91945;32.7381191;-117.0382158
+United StatesCaliforniaLincoln Acres91950;32.6678312;-117.0728066
+United StatesCaliforniaLong Beach90802;33.7573518;-118.2029523
+United StatesCaliforniaLos Angeles90012;34.0649594;-118.2351192
+United StatesCaliforniaMill Valley94941;37.9060368;-122.5449763
+United StatesCaliforniaMilpitas95035;37.4282724;-121.9066238
+United StatesCaliforniaModesto95354;37.6346973;-120.9704234
+United StatesCaliforniaMonrovia91016;34.1442616;-118.0019482
+United StatesCaliforniaNational City91950;32.6721599;-117.0970596
+United StatesCaliforniaNewark94560;37.5296593;-122.0402399
+United StatesCaliforniaNewport Beach92625;33.6039059;-117.8633774
+United StatesCaliforniaNovato94947;38.1074198;-122.5697032
+United StatesCaliforniaOakland94611;37.8336281;-122.2029832
+United StatesCaliforniaOntario91764;34.0739866;-117.6141457
+United StatesCaliforniaOrange92867;33.8036197;-117.8370041
+United StatesCaliforniaOxnard93030;34.2023849;-119.179765
+United StatesCaliforniaPalo Alto94303;37.4561297;-122.1235054
+United StatesCaliforniaPleasanton94566;37.6436199;-121.8676464
+United StatesCaliforniaRedlands92373;34.0555693;-117.1825381
+United StatesCaliforniaRedwood City94063;37.4895144;-122.2029832
+United StatesCaliforniaSacramento95814;38.5824933;-121.4941738
+United StatesCaliforniaSan Bruno94066;37.6304904;-122.4110835
+United StatesCaliforniaSan Carlos94070;37.5071591;-122.2605222
+United StatesCaliforniaSan Diego92102;32.7162223;-117.1323579
+United StatesCaliforniaSan Francisco94109;37.7929789;-122.4212424
+United StatesCaliforniaSan Gabriel91776;34.0895991;-118.0947106
+United StatesCaliforniaSan Jose95112;37.3456227;-121.8847222
+United StatesCaliforniaSan Mateo94404;37.5549479;-122.2710602
+United StatesCaliforniaSan Ramon94583;37.7799273;-121.9780153
+United StatesCaliforniaSan Ysidro92173;32.5520013;-117.0430813
+United StatesCaliforniaSand City93955;36.6171819;-121.8482855
+United StatesCaliforniaSanta Ana92701;33.7463915;-117.8604472
+United StatesCaliforniaSanta Cruz95062;36.9774519;-121.9871217
+United StatesCaliforniaSanta Monica90401;34.0126379;-118.495155
+United StatesCaliforniaSherman Oaks91403;34.1423899;-118.4571974
+United StatesCaliforniaSimi Valley93065;34.2702221;-118.7780987
+United StatesCaliforniaSpring Valley91977;32.744774;-116.998916
+United StatesCaliforniaStockton95202;37.9573836;-121.2883857
+United StatesCaliforniaTorrance90505;33.8101772;-118.3520389
+United StatesCaliforniaTrabuco Canyon92679;33.5941759;-117.5730639
+United StatesCaliforniaUnion City94587;37.5986691;-122.0326019
+United StatesCaliforniaUpland91786;34.1036996;-117.6610854
+United StatesCaliforniaVan Nuys91411;34.1799855;-118.4601175
+United StatesCaliforniaVisalia93291;36.3302284;-119.2920585
+United StatesCaliforniaWest Covina91791;34.0566376;-117.8956062
+United StatesCaliforniaWhittier90605;33.9548846;-118.0273914
+United StatesCaliforniaWoodland Hills91364;34.1581013;-118.597305
+United StatesColoradoDenver80203;39.7312095;-104.9826965
+United StatesColoradoEnglewood80110;39.6487896;-105.0148322
+United StatesColoradoGreeley80631;40.4233142;-104.7091322
+United StatesColoradoLongmont80501;40.1733277;-105.1142011
+United StatesColoradoLoveland80537;40.3977612;-105.0749801
+United StatesColoradoParker80138;39.5186002;-104.7613633
+United StatesColoradoWestminster80030;39.8300502;-105.0352855
+United StatesConnecticutEast Haven06512;41.2750779;-72.8810859
+United StatesConnecticutHamden06518;41.4305881;-72.9106202
+United StatesConnecticutMilford06460;41.2220944;-73.0464309
+United StatesConnecticutNew Haven06510;41.3047728;-72.9239095
+United StatesConnecticutStamford06901;41.0539698;-73.5373266
+United StatesConnecticutWaterbury06710;41.5658733;-73.0493825
+United StatesFloridaBradenton34205;27.4867008;-82.5780878
+United StatesFloridaClearwater33755;27.9757198;-82.7832489
+United StatesFloridaDestin32541;30.3935337;-86.4957833
+United StatesFloridaHollywood33021;26.0197012;-80.1819268
+United StatesFloridaKendall33143;25.6993807;-80.2934522
+United StatesFloridaLakeland33801;28.0486111;-81.898908
+United StatesFloridaMerritt Island32952;28.2949008;-80.6659842
+United StatesFloridaMiami33127;25.8105183;-80.2042436
+United StatesFloridaNorth Miami Beach33162;25.9260794;-80.1819268
+United StatesFloridaOrlando32804;28.5747416;-81.3949264
+United StatesFloridaSarasota34236;27.3297749;-82.5375224
+United StatesFloridaSunrise33322;26.1544576;-80.2711588
+United StatesFloridaTampa33602;27.9552692;-82.4563199
+United StatesFloridaVero Beach32960;27.6328871;-80.4048306
+United StatesGeorgiaAtlanta30308;33.7717008;-84.3726049
+United StatesGeorgiaAugusta30901;33.4406432;-81.9589366
+United StatesGeorgiaAustell30106;33.8126059;-84.6343783
+United StatesGeorgiaByron31008;32.6537561;-83.7596295
+United StatesGeorgiaClarkston30021;33.8095487;-84.2396434
+United StatesGeorgiaColumbus31901;32.466023;-84.9869547
+United StatesGeorgiaDecatur30030;33.7748275;-84.2963123
+United StatesGeorgiaLa Grange30240;33.036575;-85.03193
+United StatesGeorgiaMarietta30060;33.9372318;-84.5274616
+United StatesGeorgiaMcdonough30253;33.4473361;-84.1468616
+United StatesGeorgiaSavannah31401;32.082038;-81.0920218
+United StatesGeorgiaSuwanee30024;34.0514898;-84.0712997
+United StatesIdahoIdaho Falls83402;43.4665808;-112.0341374
+United StatesIdahoLewiston83501;46.4165506;-117.0176569
+United StatesIdahoSandpoint83864;48.2765903;-116.5532476
+United StatesIllinoisCarol Stream60188;41.9125286;-88.1347927
+United StatesIllinoisChicago60610;41.9028369;-87.6359125
+United StatesIllinoisElgin60120;42.0352856;-88.2558525
+United StatesIllinoisJoliet60433;41.4943236;-88.0216334
+United StatesIllinoisMoline61265;41.4902075;-90.4974359
+United StatesIllinoisNorridge60706;41.9633641;-87.827284
+United StatesIllinoisPeoria61606;40.6974655;-89.6133926
+United StatesIllinoisTuscola61953;39.7991985;-88.2831038
+United StatesIllinoisWest Chicago60185;41.8847507;-88.2039607
+United StatesIndianaDaleville47334;40.1211545;-85.5580301
+United StatesIndianaFort Wayne46807;41.0434924;-85.1531216
+United StatesIndianaIndianapolis46204;39.7713425;-86.1573709
+United StatesIndianaLogansport46947;40.7544843;-86.3566659
+United StatesIndianaMichigan City46360;41.7075394;-86.8950297
+United StatesIndianaNew Castle47362;39.928935;-85.3702476
+United StatesIndianaSouth Bend46601;41.6724038;-86.2539519
+United StatesKentuckyCampbellsville42718;37.3433974;-85.3419069
+United StatesKentuckyFlorence41042;38.9989499;-84.6266111
+United StatesKentuckyNewport41071;39.091449;-84.4957757
+United StatesKentuckySaint Matthews40207;38.267923;-85.6537627
+United StatesKentuckySomerset42501;37.0920222;-84.6041084
+United StatesMaineKittery03904;43.0881441;-70.736164
+United StatesMassachusettsBraintree02184;42.2020445;-71.014118
+United StatesMassachusettsNorwood02062;42.1772198;-71.2042619
+United StatesMassachusettsRandolph02368;42.1625997;-71.0411588
+United StatesMassachusettsWrentham02093;42.0484051;-71.3468091
+United StatesMichiganDetroit48226;42.328245;-83.0495622
+United StatesMichiganHolland49423;42.7875235;-86.1089301
+United StatesMichiganHowell48843;42.6072552;-83.9293952
+United StatesMichiganMadison Heights48071;42.5053384;-83.1059154
+United StatesMichiganMidland48640;43.6155825;-84.2472116
+United StatesMichiganMonroe98272;42.192262;-83.170387
+United StatesMichiganNovi48375;42.4719897;-83.4536844
+United StatesMichiganPontiac48342;42.642381;-83.277359
+United StatesMichiganPort Huron48060;42.9708634;-82.4249142
+United StatesMichiganRedford48239;42.3792122;-83.2880591
+United StatesMichiganSaginaw48601;43.4194699;-83.9508068
+United StatesMichiganSouthfield48034;42.4966195;-83.2880591
+United StatesMichiganSouthgate48195;42.2021569;-83.1970511
+United StatesMichiganWestland48185;42.332448;-83.4109834
+United StatesMichiganZeeland49464;42.8125246;-86.018651
+United StatesMinnesotaBranch55056;45.4852407;-92.9618842
+United StatesMinnesotaDuluth55802;46.7625009;-92.1000829
+United StatesMinnesotaEdina55436;44.9037924;-93.3691241
+United StatesMinnesotaMedford55049;44.1721853;-93.2460463
+United StatesMinnesotaMinneapolis55402;44.9754085;-93.2722029
+United StatesMinnesotaWoodbury55125;44.915423;-92.9475662
+United StatesMississippiBiloxi39530;30.3960318;-88.8853078
+United StatesMississippiGulfport39501;30.3750806;-89.1038783
+United StatesMississippiTupelo38804;34.2576066;-88.7033859
+United StatesMissouriBranson65616;36.6436731;-93.2185144
+United StatesMissouriFerguson63135;38.7469318;-90.2901815
+United StatesMissouriJefferson City65101;38.5767017;-92.1735164
+United StatesMissouriKansas City64106;39.1015411;-94.5676009
+United StatesMissouriOdessa64076;38.9991748;-93.9535558
+United StatesMissouriSaint Ann63074;38.7257164;-90.3842527
+United StatesMissouriSaint Louis63103;38.629185;-90.2174318
+United StatesMontanaBillings59101;45.7832856;-108.5006904
+United StatesMontanaGreat Falls59401;47.5154575;-111.2803565
+United StatesMontanaMissoula59801;46.8556636;-114.0079154
+United StatesNevadaFernley89408;39.6079683;-119.2518349
+United StatesNevadaLas Vegas89106;36.1821091;-115.1592718
+United StatesNevadaNorth Las Vegas89030;36.2040034;-115.1296249
+United StatesNevadaReno89502;39.4835647;-119.7310213
+United StatesNevadaSparks89431;39.533804;-119.7541856
+United StatesNew HampshireHooksett03106;43.0967495;-71.4650684
+United StatesNew HampshireNashua03064;42.7773453;-71.4714928
+United StatesNew HampshirePlaistow03865;42.8377374;-71.1032591
+United StatesNew HampshireTilton03276;43.4294845;-71.5842643
+United StatesNew MexicoLas Cruces88001;32.3001619;-106.7529514
+United StatesNew MexicoRio Rancho87124;35.242082;-106.7824429
+United StatesNew MexicoSanta Fe87501;35.6869752;-105.937799
+United StatesNew YorkCentral Valley10917;41.3281101;-74.1063776
+United StatesNew YorkCheektowaga14227;42.8795568;-78.7362845
+United StatesNew YorkClay13041;43.192952;-76.2131474
+United StatesNew YorkEndicott13760;42.098408;-76.0493684
+United StatesNew YorkLake George12845;43.4261809;-73.7123408
+United StatesNew YorkMelville11747;40.7934322;-73.4151214
+United StatesNew YorkNew Hartford13413;43.073403;-75.2876661
+United StatesNew YorkNew York10007;40.7144684;-74.0057745
+United StatesNew YorkValley Stream11580;40.6642699;-73.7084645
+United StatesNorth CarolinaCharlotte28202;35.2326781;-80.8460822
+United StatesNorth CarolinaGreensboro27412;36.0671639;-79.8065606
+United StatesNorth CarolinaKannapolis28081;35.4871817;-80.6548882
+United StatesNorth CarolinaRaleigh27603;35.6728251;-78.6682395
+United StatesNorth CarolinaRocky Mount27803;35.9267047;-77.8595963
+United StatesNorth CarolinaSmithfield27577;35.5084935;-78.3394455
+United StatesNorth CarolinaWinston-Salem27104;36.0937141;-80.3268812
+United StatesOhioBurbank44214;40.988667;-81.9948684
+United StatesOhioCincinnati45202;39.1031971;-84.5064881
+United StatesOhioColumbus43215;39.9650459;-83.0039075
+United StatesOhioEuclid44119;41.5867536;-81.5514154
+United StatesOhioHeath43056;40.0228421;-82.4445991
+United StatesOhioHolland43528;41.621718;-83.711604
+United StatesOhioMansfield44903;40.75839;-82.5154471
+United StatesOhioMentor44060;41.6661573;-81.339552
+United StatesOhioNorth Randall44128;41.4347758;-81.5256766
+United StatesOhioOberlin44074;41.2939386;-82.2173786
+United StatesOhioSpringdale45246;39.287002;-84.4852213
+United StatesOregonAlbany97321;44.6365107;-123.1059282
+United StatesOregonBeaverton97005;45.4923824;-122.8029665
+United StatesOregonClackamas97015-6403;45.4076205;-122.5703692
+United StatesOregonClackamas97015;45.4076205;-122.5703692
+United StatesOregonCorvallis97330;44.5645659;-123.2620435
+United StatesOregonHillsboro97123;45.5228939;-122.989827
+United StatesOregonKlamath Falls97601;42.224867;-121.7816704
+United StatesOregonLake Oswego97034;45.4031666;-122.688201
+United StatesOregonLebanon97355;44.5365119;-122.9070339
+United StatesOregonMedford97504;42.3265152;-122.8755949
+United StatesOregonMilwaukie97222;45.4462305;-122.6392606
+United StatesOregonOregon City97045;45.3573429;-122.6067583
+United StatesOregonPortland97205;45.5205043;-122.707349
+United StatesOregonSalem97301;44.9464822;-123.0018941
+United StatesOregonSpringfield97477;44.059912;-123.0179348
+United StatesOregonTigard97223;45.4312294;-122.7714861
+United StatesOregonTroutdale97060;45.5392862;-122.3873133
+United StatesOregonW. Linn97068;45.3656761;-122.6123141
+United StatesOregonWoodburn97071;45.143731;-122.8553725
+United StatesRhode IslandWarwick02889;41.7070269;-71.4002502
+United StatesRhode IslandWoonsocket02895;41.9995834;-71.5130445
+United StatesSouth CarolinaBluffton29910;32.2371465;-80.8603868
+United StatesSouth CarolinaGaffney29340;35.0717945;-81.6498195
+United StatesSouth CarolinaMyrtle Beach29577;33.7070405;-78.8948741
+United StatesSouth DakotaDenby57716;43.1197744;-102.1861447
+United StatesSouth DakotaNorth Sioux City57049;42.5272168;-96.4830864
+United StatesTennesseeCrossville38555;35.9489566;-85.0269014
+United StatesTennesseeLa Vergne37086;36.0290209;-86.5501654
+United StatesTennesseeMaryville37801;35.7564719;-83.9704593
+United StatesTennesseeMemphis38103;35.1543632;-90.0606637
+United StatesTennesseeMillington38054;35.3353;-89.8776
+United StatesTennesseeNashville37203;36.1523805;-86.7893889
+United StatesTennesseePigeon Forge37863;35.7884241;-83.5543329
+United StatesTexasArlington76010;32.7272701;-97.0767365
+United StatesTexasAustin78701;30.2729209;-97.7443863
+United StatesTexasBaytown77520;29.7291996;-95.0078451
+United StatesTexasCarrollton75006;32.9666594;-96.9101806
+United StatesTexasCedar Park78613;30.5119418;-97.8177601
+United StatesTexasCollege Station77840;30.616559;-96.3119743
+United StatesTexasCorpus Christi78404;27.767874;-97.4002872
+United StatesTexasDallas75201;32.788993;-96.7989312
+United StatesTexasFort Worth76102;32.7579468;-97.3246534
+United StatesTexasGarland75040;32.9368872;-96.6317461
+United StatesTexasHouston77003;29.7476265;-95.3494719
+United StatesTexasHumble77338;29.9988312;-95.2621553
+United StatesTexasIrving75061;32.8237425;-96.9584922
+United StatesTexasKilleen76541;31.1168297;-97.725376
+United StatesTexasLa Marque77568;29.3685674;-94.9713134
+United StatesTexasLaredo78040;27.5165805;-99.5117328
+United StatesTexasMesquite75149;32.7594756;-96.5890166
+United StatesTexasPlano75074;33.0243206;-96.6745042
+United StatesTexasRound Rock78664;30.5041381;-97.6602365
+United StatesTexasSan Antonio78204;29.4043236;-98.5034561
+United StatesTexasSugar Land77478;29.6185208;-95.6090009
+United StatesUtahBountiful84010;40.8893895;-111.880771
+United StatesUtahCedar City84720;37.6774769;-113.0618931
+United StatesUtahOgden84401;41.223;-111.9738304
+United StatesUtahPark City84098;40.734179;-111.5945271
+United StatesUtahRiverton84065;40.521893;-111.9391023
+United StatesUtahSalt Lake City84101;40.7582151;-111.9015732
+United StatesUtahSandy84070;40.5749102;-111.8866683
+United StatesUtahTooele84074;40.5307776;-112.29828
+United StatesVirginiaChantilly20151;38.8942786;-77.4310992
+United StatesVirginiaFalls Church22046;38.882334;-77.1710914
+United StatesVirginiaLeesburg20176;39.1156615;-77.5636015
+United StatesVirginiaNewport News23607;36.9749224;-76.4447397
+United StatesVirginiaVirginia Beach23451;36.8538052;-75.9985693
+United StatesWashingtonBallard98107;47.6683603;-122.3769582
+United StatesWashingtonBellevue98004;47.6264794;-122.2051487
+United StatesWashingtonBellingham98225;48.7685948;-122.4857716
+United StatesWashingtonBothell98011;47.759038;-122.2021071
+United StatesWashingtonBremerton98312;47.570017;-122.652625
+United StatesWashingtonBurien98168;47.4826332;-122.2973219
+United StatesWashingtonChehalis98532;46.6620478;-122.9640175
+United StatesWashingtonEdmonds98020;47.8040624;-122.3735496
+United StatesWashingtonEllensburg98926;46.9965144;-120.5478474
+United StatesWashingtonEverett98201;47.9929345;-122.1932443
+United StatesWashingtonFederal Way98003;47.3165043;-122.3223975
+United StatesWashingtonIssaquah98027;47.5301011;-122.0326191
+United StatesWashingtonKelso98626;46.146779;-122.9084445
+United StatesWashingtonKennewick99337;46.2112458;-119.1372338
+United StatesWashingtonKent98031;47.4045455;-122.1984312
+United StatesWashingtonKirkland98033;47.6814875;-122.2087353
+United StatesWashingtonLacey98503;47.0180992;-122.7982856
+United StatesWashingtonLongview98632;46.1381676;-122.9381672
+United StatesWashingtonLynnwood98036;47.8209301;-122.3151313
+United StatesWashingtonMarysville98270;48.0563616;-122.1492224
+United StatesWashingtonNorth Bend98045;47.4956579;-121.7867775
+United StatesWashingtonOlympia98501;47.0378741;-122.9006951
+United StatesWashingtonPort Orchard98366;47.5403732;-122.6362492
+United StatesWashingtonPuyallup98371;47.1971241;-122.3213693
+United StatesWashingtonRedmond98052;47.6701193;-122.118237
+United StatesWashingtonRenton98055;47.4424695;-122.1992495
+United StatesWashingtonSeattle98104;47.6011125;-122.3293984
+United StatesWashingtonSedro Woolley98284;48.50389;-122.23611
+United StatesWashingtonSequim98382;48.0795365;-123.1018437
+United StatesWashingtonShelton98584;47.2150945;-123.1007066
+United StatesWashingtonSpokane99202;47.6568696;-117.3719973
+United StatesWashingtonTacoma98403;47.2649829;-122.4595008
+United StatesWashingtonWalla Walla99362;46.0645809;-118.3430209
+United StatesWashingtonWashougal98671;45.5826188;-122.3534247
+United StatesWashingtonWenatchee98801;47.4234599;-120.3103494
+United StatesWashingtonWoodinville98072;47.7542651;-122.1634582
+United StatesWashingtonYakima98901;46.6020711;-120.5058987
+United StatesWisconsinJohnson Creek53038;43.076113;-88.7742707
+United StatesWisconsinMilwaukee53202;43.0463596;-87.8966983
+United StatesWisconsinMosinee54455;44.7930232;-89.7031784
+United StatesWisconsinRacine53182;42.7006942;-88.0411993
+United StatesWyomingCasper82601;42.866632;-106.313081
+United StatesWyomingCheyenne82001;41.1399814;-104.8202462
+United StatesWyomingRock Springs82901;41.5874644;-109.2029043
